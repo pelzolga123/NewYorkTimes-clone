@@ -11,4 +11,4 @@ Used:
 
 # The Website
 
-Follow this link to access to the website: https://rawcdn.githack.com/pelzolga123/NewYorkTimes-clone/abaac3779608bb7e1e23c54f4a3a829831212d21/index.html
+Follow this link to access to the website: https://rawcdn.githack.com/pelzolga123/NewYorkTimes-clone/ec3b320a819a6a61e821d09f7e8414bb9698bf87/index.html
