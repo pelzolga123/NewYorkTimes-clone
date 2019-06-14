@@ -100,13 +100,20 @@ h1{
     font-size: 13px;
     margin-top: 5px;
 }
+.main-section{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
 .main-article{
    margin-top: 43px;
     width: 600px;
-    margin-left: auto;
     margin-right: auto;
     font-family: nyt-franklin,helvetica,arial,sans-serif;
     overflow: hidden;
+    margin-left: calc((100% - 600px) / 2);
 }
 .author-name{
     color: #121212;
@@ -540,4 +547,74 @@ a, button, img, i{
 .subscribe-now{
     color:#fff;
     text-decoration: none;
+}
+
+.aside-img{
+    width:75px;
+    height: 77px;
+}
+aside{
+    max-width: 190px;
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+    justify-content: center;
+    height: 850px;
+}
+figure{
+    display: flex;
+    flex-direction: row;
+    max-width: 210px;
+    margin: 15px 0 0 0;
+    align-items: center;
+   
+}
+figcaption{
+    font-size: 14px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.aside-header{
+    
+    padding-bottom: 12px;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.02em;
+    border-bottom: 1px solid rgb(226, 226, 226);
+}
+.aside-container{
+    margin-right: 0;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 73%;
+}
+.second-aside-p{
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    margin-left: 0px;
+    font-size:13px;
+    line-height: 16px;
+    color: rgb(102, 102, 102);
+    margin: 0 0 10px 0;
+    
+}
+.second-aside-h2{
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.second-aside-btn{
+    color: #fff;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 13px;
+    width: 100%;
+    height: 35px;
+    background: rgb(98, 136, 165);
+    border-style: solid;
+    border-color: rgb(98, 136, 165);
+    border-image: initial;
+    border-radius: 4px;
+    padding: 10px;
 }
