@@ -346,14 +346,13 @@ li{
     list-style: none;
 }
 
-.left-bar-div-outer{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
 .left-bar-ul{
 
-    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding:0;
    
 }
 .suggestions-p-1{
@@ -395,10 +394,7 @@ li{
     
 
 }
-.right-bar-div{
- 
-    width: 100%;
-}
+
 .right-bar-a{
     text-decoration: none;
     color: #000;
@@ -426,6 +422,10 @@ h3{
 .left-bar-bottom-ul{ 
     padding: 0;
     margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
      
 }
 .navigation-bottom-hr{
