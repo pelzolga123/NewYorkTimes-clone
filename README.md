@@ -5,6 +5,7 @@
 ## About The Project
 This is a clone of New York Times page. Webpage contains embedded video, images and thumbnails.
 
+## Live version
 [New York Times clone ](https://rawcdn.githack.com/pelzolga123/NewYorkTimes-clone/5a591467297cfb685d96820b21cfb8f52e7faf0a/index.html)
 
 ### Built With
