@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/9GBHhBx/Screenshot-from-2020-03-16-17-33-57.png" alt="Screenshot-from-2020-03-16-17-33-57" border="0">
 
 ## About The Project
-This is a clone of New York Times page. Webpage contains embedded video, images and thumbnails.
+This is a clone of the New York Times page. The webpage contains an embedded video, images, and thumbnails.
 
 ## Live version
 [New York Times clone ](https://rawcdn.githack.com/pelzolga123/NewYorkTimes-clone/5a591467297cfb685d96820b21cfb8f52e7faf0a/index.html)
@@ -11,6 +11,14 @@ This is a clone of New York Times page. Webpage contains embedded video, images 
 ### Built With
 * HTML5
 * CSS
+
+### Development
+
+* Clone project
+```
+git clone https://github.com/pelzolga123/NewYorkTimes-clone.git
+```
+* Open `index.html` file with a browser.
 
 ## Author
 
